@@ -40,5 +40,5 @@
 - Issuing Organization: FPT University
 - Issue Date: December 2020
 - Expiration Date: This certification does not expire
-- Credential URL: https://github.com/khuonghung/Certificate/AcademicPreparatoryEnglish.pdf
+- Credential URL: https://github.com/khuonghung/Certificate/blob/main/AcademicPreparatoryEnglish.pdf
 
